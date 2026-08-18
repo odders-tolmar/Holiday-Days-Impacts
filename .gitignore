@@ -1,0 +1,8 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.claude/settings.local.json
+
+# schema.sql may contain sensitive table/column names — exclude or include as needed
+schema.sql
